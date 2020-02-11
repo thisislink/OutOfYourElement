@@ -1,4 +1,4 @@
-# OYE – Code Explained Part V: Let’s Get Functional
+# OOYE – Code Explained Part V: Let’s Get Functional
 
 Welcome to Part V. If you’ve missed the previous lessons, be sure to check them out here:
 
